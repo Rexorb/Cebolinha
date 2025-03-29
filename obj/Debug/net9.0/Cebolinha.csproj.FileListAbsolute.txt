@@ -1,0 +1,15 @@
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\bin\Debug\net9.0\Cebolinha.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\bin\Debug\net9.0\Cebolinha.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\bin\Debug\net9.0\Cebolinha.runtimeconfig.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\bin\Debug\net9.0\Cebolinha.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\bin\Debug\net9.0\Cebolinha.pdb
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.AssemblyInfoInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.AssemblyInfo.cs
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.csproj.CoreCompileInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.sourcelink.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\refint\Cebolinha.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\Cebolinha.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\Cebolinha\obj\Debug\net9.0\ref\Cebolinha.dll
